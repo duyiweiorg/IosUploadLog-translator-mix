@@ -1,0 +1,10 @@
+Bundle ID 资源匹配：com.translator.app.mix -> 4QF42MFD55
+证书查询结果：2 个 [ 'DISTRIBUTION', 'DEVELOPMENT' ]
+签名 profile 新建：bundleId=com.translator.app.mix profile=appstore-com.translator.app.mix-20260921073231130 [id=BXP5WP9C4S] uuid=f04a77b4-6b3c-44ca-bfc1-5de5672b1c22
+Bundle ID 资源匹配：com.translator.app.mix.DefaultTranslationProvider -> 6Q7W2U8GUD
+签名 profile 新建：bundleId=com.translator.app.mix.DefaultTranslationProvider profile=appstore-com.translator.app.mix.DefaultTranslationProvider-20260921073231644 [id=4H7NRKS333] uuid=23a124ed-1752-41b9-be16-1fab40af7749
+Bundle ID 资源匹配：com.translator.app.mix.Keyboard -> 86WX3DNA7G
+签名 profile 新建：bundleId=com.translator.app.mix.Keyboard profile=appstore-com.translator.app.mix.Keyboard-20260921073233604 [id=78QB6D3QBN] uuid=af0db165-c577-4e58-bc80-115d53ac506f
+Bundle ID 资源匹配：com.translator.app.mix.MeetingBroadcast -> 8U56K2SZ5U
+签名 profile 新建：bundleId=com.translator.app.mix.MeetingBroadcast profile=appstore-com.translator.app.mix.MeetingBroadcast-20260921073233985 [id=JKWZY5VMCC] uuid=d9614118-8b10-4fd8-b69d-d70c45ed9ba3
+签名 bundleIds: com.translator.app.mix(appstoreconnect, uuid=f04a77b4-6b3c-44ca-bfc1-5de5672b1c22), com.translator.app.mix.DefaultTranslationProvider(appstoreconnect, uuid=23a124ed-1752-41b9-be16-1fab40af7749), com.translator.app.mix.Keyboard(appstoreconnect, uuid=af0db165-c577-4e58-bc80-115d53ac506f), com.translator.app.mix.MeetingBroadcast(appstoreconnect, uuid=d9614118-8b10-4fd8-b69d-d70c45ed9ba3)
