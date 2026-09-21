@@ -1,0 +1,150 @@
+Command line invocation:
+    /Applications/Xcode_26.3.app/Contents/Developer/usr/bin/xcodebuild -list -workspace /Users/runner/work/translator-mix/translator-mix/TranslatorMix.xcworkspace
+
+Resolve Package Graph
+
+Fetching from https://github.com/pointfreeco/xctest-dynamic-overlay
+
+Fetching from https://github.com/swiftlang/swift-syntax
+
+Fetching from https://github.com/pointfreeco/swift-sharing
+
+Fetching from https://github.com/pointfreeco/swift-perception
+
+Fetching from https://github.com/pointfreeco/swift-navigation
+
+Fetching from https://github.com/pointfreeco/swift-identified-collections
+
+Fetching from https://github.com/pointfreeco/swift-dependencies
+
+Fetching from https://github.com/pointfreeco/swift-custom-dump
+
+Fetching from https://github.com/pointfreeco/swift-concurrency-extras
+
+Fetching from https://github.com/pointfreeco/swift-composable-architecture
+
+Fetching from https://github.com/apple/swift-collections
+
+Fetching from https://github.com/pointfreeco/swift-clocks
+
+Fetching from https://github.com/pointfreeco/swift-case-paths
+
+Fetching from https://github.com/pointfreeco/combine-schedulers
+
+Creating working copy of package ‘swift-navigation’
+
+Checking out 2.6.0 of package ‘swift-navigation’
+
+Creating working copy of package ‘swift-dependencies’
+
+Checking out 1.10.0 of package ‘swift-dependencies’
+
+Creating working copy of package ‘swift-case-paths’
+
+Checking out 1.7.2 of package ‘swift-case-paths’
+
+Creating working copy of package ‘swift-concurrency-extras’
+
+Checking out 1.3.2 of package ‘swift-concurrency-extras’
+
+Creating working copy of package ‘swift-perception’
+
+Checking out 2.0.9 of package ‘swift-perception’
+
+Creating working copy of package ‘combine-schedulers’
+
+Checking out 1.1.0 of package ‘combine-schedulers’
+
+Creating working copy of package ‘swift-clocks’
+
+Checking out 1.0.6 of package ‘swift-clocks’
+
+Creating working copy of package ‘swift-custom-dump’
+
+Checking out 1.3.3 of package ‘swift-custom-dump’
+
+Creating working copy of package ‘swift-composable-architecture’
+
+Checking out 1.23.2 of package ‘swift-composable-architecture’
+
+Creating working copy of package ‘swift-identified-collections’
+
+Checking out 1.1.1 of package ‘swift-identified-collections’
+
+Creating working copy of package ‘xctest-dynamic-overlay’
+
+Checking out 1.7.0 of package ‘xctest-dynamic-overlay’
+
+Creating working copy of package ‘swift-sharing’
+
+Checking out 2.7.4 of package ‘swift-sharing’
+
+Creating working copy of package ‘swift-collections’
+
+Checking out 1.3.0 of package ‘swift-collections’
+
+Creating working copy of package ‘swift-syntax’
+
+Checking out 602.0.0 of package ‘swift-syntax’
+
+Downloading package prebuilt https://download.swift.org/prebuilts/swift-syntax/602.0.0/swiftlang-6.2.4.1.4-MacroSupport-macos_aarch64.zip
+
+
+Resolved source packages:
+  xctest-dynamic-overlay: https://github.com/pointfreeco/xctest-dynamic-overlay @ 1.7.0
+  swift-syntax: https://github.com/swiftlang/swift-syntax @ 602.0.0
+  swift-custom-dump: https://github.com/pointfreeco/swift-custom-dump @ 1.3.3
+  swift-case-paths: https://github.com/pointfreeco/swift-case-paths @ 1.7.2
+  swift-collections: https://github.com/apple/swift-collections @ 1.3.0
+  swift-clocks: https://github.com/pointfreeco/swift-clocks @ 1.0.6
+  swift-navigation: https://github.com/pointfreeco/swift-navigation @ 2.6.0
+  swift-dependencies: https://github.com/pointfreeco/swift-dependencies @ 1.10.0
+  swift-perception: https://github.com/pointfreeco/swift-perception @ 2.0.9
+  combine-schedulers: https://github.com/pointfreeco/combine-schedulers @ 1.1.0
+  swift-concurrency-extras: https://github.com/pointfreeco/swift-concurrency-extras @ 1.3.2
+  swift-identified-collections: https://github.com/pointfreeco/swift-identified-collections @ 1.1.1
+  swift-composable-architecture: https://github.com/pointfreeco/swift-composable-architecture @ 1.23.2
+  swift-sharing: https://github.com/pointfreeco/swift-sharing @ 2.7.4
+
+Information about workspace "TranslatorMix":
+    Schemes:
+        AliyunOSSiOS
+        AliyunOSSiOS-AliyunOSSiOS_Privacy
+        CryptoSwift
+        CryptoSwift-CryptoSwift
+        DefaultTranslationProvider
+        DefaultTranslationProvider_Test
+        DYWPurchaseKit
+        DYWPurchaseKit-DYW-resources
+        GoogleDataTransport
+        GoogleDataTransport-GoogleDataTransport_Privacy
+        GoogleMLKit
+        GoogleToolboxForMac
+        GoogleToolboxForMac-GoogleToolboxForMac_Logger_Privacy
+        GoogleToolboxForMac-GoogleToolboxForMac_Privacy
+        GoogleUtilities
+        GoogleUtilities-GoogleUtilities_Privacy
+        GTMSessionFetcher
+        GTMSessionFetcher-GTMSessionFetcher_Core_Privacy
+        MeetingBroadcast
+        MeetingBroadcast_Test
+        MLKitCommon
+        MLKitNaturalLanguage
+        MLKitTranslate
+        MLKitTranslate-MLKitTranslate_resource
+        nanopb
+        nanopb-nanopb_Privacy
+        Pods-TranslatorMix
+        Pods-TranslatorMix_Test
+        PromisesObjC
+        PromisesObjC-FBLPromises_Privacy
+        SSZipArchive
+        SSZipArchive-SSZipArchive
+        SVProgressHUD
+        TranslatorMix
+        TranslatorMix_Keyboard
+        TranslatorMix_Keyboard_Test
+        TranslatorMix_Test
+        UMCommon
+        UMDevice
+
